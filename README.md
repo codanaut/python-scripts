@@ -6,7 +6,7 @@ Random Python Scripts &amp; Examples
 basic-json-get.py is an example of a basic get request and json response
 
 ## [email-gmail.py](email-gmail.py)
-email-gmai.py is an example of sending emails using gmails smtp
+email-gmail.py is an example of sending emails using gmails smtp
 
 ## [f-string-example.py](f-string-example.py)
 f-string-example.py is an example for using f-strings
